@@ -50,3 +50,9 @@ if(hour > 19 && hour <= 21)
 document.getElementById("status").src="IMAGENS/gfl1.png"
 }
 
+else
+if(hour > 21 && hour <= 23)
+{
+document.getElementById("status").src="IMAGENS/base.png"
+}
+
