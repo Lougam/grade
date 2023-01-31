@@ -39,7 +39,7 @@ document.getElementById("status").src="IMAGENS/hub14.png"
 }
 
 else
-if(hour > 18 && hour <= 19)
+if(hour > 17 && hour <= 19)
 {
 document.getElementById("status").src="IMAGENS/ctba.png"
 }
