@@ -27,9 +27,15 @@ body {
     
 }
 .button {
-    background-color: BLACK; /* Green */
+    color: BLACK; /* Green */
     border-radius: 30px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
+}
+.bot_full button {
+    background-color: BLACK; 
+    border-radius: 30px;
+    color: rgb(124, 112, 112);
+    border-color: rgb(117, 122, 126);
 }
